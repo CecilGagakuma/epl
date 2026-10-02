@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python bytecode cache
+__pycache__/
+*.pyc
+
+# Secrets
+.env
+
+# Local data
+data/
+
+# Packaging and macOS clutter
+*.egg-info/
+.DS_Store
