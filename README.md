@@ -5,3 +5,5 @@ A backend data pipeline for Premier League match data, built with Python. It loa
 **Status:** 🚧 Work in progress. Currently setting up the project structure and CSV data loader.
 
 **Planned stack:** Python · PostgreSQL · FastAPI · Kafka · Docker · GitHub Actions
+
+I downloaded a Premier League season CSV from football-data.co.uk.
