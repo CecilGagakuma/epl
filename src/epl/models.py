@@ -25,5 +25,3 @@ class Match:
             return "A"
         return "D"
 
-m = Match(date(2015, 8, 8), "Bournemouth", "Aston Villa", 0, 1, 11, 7, 2, 3)
-print(m.result)  
